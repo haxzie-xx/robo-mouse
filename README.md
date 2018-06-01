@@ -1,4 +1,4 @@
-# Robo-Mouse [under development]
+# 🤖 Robo-Mouse [under development]
 A simple cli node application to record your mouse clicks using iohook and replay 
 it using robotjs.
 
