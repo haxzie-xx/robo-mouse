@@ -1,0 +1,17 @@
+{
+  "name": "node-robot",
+  "version": "1.0.0",
+  "description": "Robot.js examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haxzie",
+  "license": "ISC",
+  "dependencies": {
+    "iohook": "^0.2.0",
+    "print-message": "^2.1.0",
+    "robotjs": "^0.5.1",
+    "signale": "^1.1.0"
+  }
+}
